@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4227c6f4.css",
+    "main.js": "/static/js/main.73b28eee.js",
+    "static/js/496.1811ca5a.chunk.js": "/static/js/496.1811ca5a.chunk.js",
+    "static/media/TripWiz.png": "/static/media/TripWiz.38cb4af2cda82ae908e9.png",
+    "static/media/bocr.png": "/static/media/bocr.ccdc1068d70d836d3322.png",
+    "static/media/MyMoney.png": "/static/media/MyMoney.a14562934c014748a474.png",
+    "static/media/Attendance.png": "/static/media/Attendance.a16c7b785a5fa122a5c6.png",
+    "static/media/TextSender.png": "/static/media/TextSender.c5b72a5ef29d77e25829.png",
+    "static/media/TerraWhale.jpg": "/static/media/TerraWhale.7796edbb605d62b296ff.jpg",
+    "static/media/about.png": "/static/media/about.c5023ffd85df02c66d8e.png",
+    "static/media/homeicons.svg": "/static/media/homeicons.635077bdda0ab43ae14208bcfda93699.svg",
+    "static/media/Avatar.png": "/static/media/Avatar.525949fb86c384839140.png",
+    "static/media/logoDark.png": "/static/media/logoDark.c25934413253b7249bb1.png",
+    "static/media/logoLight.png": "/static/media/logoLight.633dc48fcd886dd849a0.png",
+    "static/media/pre.svg": "/static/media/pre.74b00c043f4cea5fb393.svg",
+    "index.html": "/index.html",
+    "main.4227c6f4.css.map": "/static/css/main.4227c6f4.css.map",
+    "main.73b28eee.js.map": "/static/js/main.73b28eee.js.map",
+    "496.1811ca5a.chunk.js.map": "/static/js/496.1811ca5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4227c6f4.css",
+    "static/js/main.73b28eee.js"
+  ]
+}
